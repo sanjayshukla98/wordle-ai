@@ -1,0 +1,2 @@
+# wordle-ai
+Wordle AI
